@@ -52,9 +52,9 @@
     "@angular/core": "^12.x",
     "@angular/forms": "^12.x",
     "@angular/platform-browser": "^12.x",
-    "@angular/cdk": "~12.x",
-    "@angular/material": "~12.x",
-    "rxjs": "^6.6.x"
+    "@angular/cdk": "^12.x",
+    "@angular/material": "^12.x",
+    "rxjs": "^7.4.0"
   },
   "engines": {
     "node": ">=10.13"
